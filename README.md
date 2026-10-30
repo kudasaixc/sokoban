@@ -2,7 +2,7 @@
 
 Version console du jeu Sokoban en Java, avec un solveur automatique par recherche en profondeur (DFS) et en largeur (BFS). Projet Java ESIEA, PASS Java 2026-2027.
 
-Projet réalisé par **kudasai**.
+Projet réalisé par **Azdine & Steeven**.
 
 ## Prérequis
 
